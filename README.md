@@ -6,7 +6,7 @@ Amazon Product review sentiment using bert
 2. [Dataset Overview](#dataset)
 3. [Steps](#steps)
 4. [Output](#output)
-
+5. [Reference Links](#ref)
 <a name="project"></a>
 ## Project Overview
 
@@ -108,6 +108,10 @@ OutPut<br>
 
 <img src='https://miro.medium.com/max/645/1*9__jkcUcucDMaYpWLSeMSw.png'>
 
-<a name="model"></a>
+## Reference Links
+<a name="ref"></a>
+[1] Thank you Nicholas Renotte for your guidance. do watch Nicholas’s channel for an amazing content <a href='https://www.youtube.com/channel/UCHXa4OpASJEwrHrLeIzw7Yg'>link</a><br>
+[2] https://www.youtube.com/channel/UC8tgRQ7DOzAbn9L7zDL8mLg
 
+[3] https://towardsdatascience.com/bert-for-next-sentence-prediction-466b67f8226f
 
