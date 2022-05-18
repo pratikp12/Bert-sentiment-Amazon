@@ -5,7 +5,7 @@ Amazon Product review sentiment using bert
 1. [Project Overview](#project)
 2. [Dataset Overview](#dataset)
 3. [Steps](#steps)
-4. [Model Choose](#model)
+4. [Output](#output)
 
 <a name="project"></a>
 ## Project Overview
@@ -102,10 +102,12 @@ df['sentiment'] = df['body'].apply(lambda x: sentiment_score(x[:46]))
 ```
 <a href='https://github.com/pratikp12/Bert-Folder/blob/main/bertsentiment.ipynb'>Notebook link</a>
 
+<a name="output"></a>
+## Output
 OutPut<br>
 
 <img src='https://miro.medium.com/max/645/1*9__jkcUcucDMaYpWLSeMSw.png'>
 
 <a name="model"></a>
-## Model Choose
+
 
